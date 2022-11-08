@@ -1,0 +1,6 @@
+para agregar componentes visuales, al igual que se hace con HTML se puede usar Bootstrap, en el caso de React, tiene su propia página de Bootstrap la cual es:
+    https://react-bootstrap.github.io/
+
+para instalar Bootstrap en React se accede en la página en components > Getting started y copiar la sentencia:
+    npm install react-bootstrap bootstrap  (OJO: instalar con el terminal apagado)
+
